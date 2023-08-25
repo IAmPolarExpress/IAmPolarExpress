@@ -1,7 +1,7 @@
 ### Hello there!  My name is Aaron, also known as Polar Express!
 
 - 🌱 I’m currently studying Human Language Technology at the University of Arizona!
-- 🔭 I’m currently working on both class projects and some personal coding and video game development.  (I might start using GitHub as my repository for those projects, too!)
+- 🔭 Right now, I am working on both class projects and some personal coding and video game development.  (I might start using GitHub as my repository for those projects, too!)
 - ⚡ Fun fact: I have no formal programming experience, but have done basic programming and game development for nearly 20 years!
 - - ...I still have a lot to learn, though!  Yet I will give it my all. 😄
 
